@@ -2,6 +2,7 @@
 
 ## Requisitos
 selenium
+
 openpyxl
 
 ## Descrição
