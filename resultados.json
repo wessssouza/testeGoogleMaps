@@ -1,0 +1,86 @@
+[
+    {
+        "nome": "Crossfit Saurus",
+        "tipo": "academia",
+        "nota": "4,9",
+        "avaliacoes": "(203)",
+        "endereco": "não disponível"
+    },
+    {
+        "nome": "CPN Academia Mazzei",
+        "tipo": "academia",
+        "nota": "4,6",
+        "avaliacoes": "(623)",
+        "endereco": "não disponível"
+    },
+    {
+        "nome": "Quality Sport",
+        "tipo": "academia",
+        "nota": "4,6",
+        "avaliacoes": "(399)",
+        "endereco": "não disponível"
+    },
+    {
+        "nome": "Academia up fitness II",
+        "tipo": "academia",
+        "nota": "4,5",
+        "avaliacoes": "(377)",
+        "endereco": "não disponível"
+    },
+    {
+        "nome": "Toca Do Buda Choperia",
+        "tipo": "restaurante",
+        "nota": "4,3",
+        "avaliacoes": "(542)",
+        "endereco": "não disponível"
+    },
+    {
+        "nome": "Restaurante 10",
+        "tipo": "restaurante",
+        "nota": "4,6",
+        "avaliacoes": "(80)",
+        "endereco": "não disponível"
+    },
+    {
+        "nome": "Restaurante do Índio",
+        "tipo": "restaurante",
+        "nota": "4,4",
+        "avaliacoes": "(1.622)",
+        "endereco": "não disponível"
+    },
+    {
+        "nome": "Comida Caseira Vovó Ly",
+        "tipo": "restaurante",
+        "nota": "4,3",
+        "avaliacoes": "(24)",
+        "endereco": "não disponível"
+    },
+    {
+        "nome": "Oggi Sorvetes - Vila Gustavo",
+        "tipo": "sorveteria",
+        "nota": "4,6",
+        "avaliacoes": "(436)",
+        "endereco": "não disponível"
+    },
+    {
+        "nome": "Oggi Sorvetes Jardim Japão",
+        "tipo": "sorveteria",
+        "nota": "4,5",
+        "avaliacoes": "(31)",
+        "endereco": "não disponível"
+    },
+    {
+        "nome": "Lambisk Sorvetes",
+        "tipo": "sorveteria",
+        "nota": "4,9",
+        "avaliacoes": "(8)",
+        "endereco": "não disponível"
+    },
+    {
+        "nome": "Oggi Sorvetes Vila Medeiros",
+        "tipo": "sorveteria",
+        "nota": "4,3",
+        "avaliacoes": "(33)",
+        "endereco": "não disponível"
+    }
+]
