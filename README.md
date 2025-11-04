@@ -1,5 +1,9 @@
 # Desafio Técnico – Automação RPA (Google Maps)
 
+## Requisitos
+selenium
+openpyxl
+
 ## Descrição
 Automação que coleta dados de academias, restaurantes e sorveterias no Google Maps e gera arquivos JSON e Excel com os resultados.
 
