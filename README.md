@@ -1,9 +1,9 @@
 # Desafio Técnico – Automação RPA (Google Maps)
 
-## 📋 Descrição
+## Descrição
 Automação que coleta dados de academias, restaurantes e sorveterias no Google Maps e gera arquivos JSON e Excel com os resultados.
 
-## 🚀 Execução
+## Execução
 1. Instale as dependências:
    ```bash
    pip install -r requirements.txt
@@ -12,9 +12,7 @@ Automação que coleta dados de academias, restaurantes e sorveterias no Google 
 
 python main.py
 
-
-
-🧠 Saídas
+## Saídas
 
 automation.log: registro da execução
 
